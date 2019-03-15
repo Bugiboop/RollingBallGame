@@ -1,5 +1,14 @@
 *.VC.db
 Content/ParagonShinbi/*
+Content/Collections/*
+Content/Developers/*
+Content/FabricCollection/*
+Content/FXVarietyPack/*
+Content/MultistoryDungeons/*
+Content/NecrosUtilityMatPack/*
+Content/ProceduralNaturePack/*
+Content/WaterMaterials/*
+
 
 # Visual Studio 2015 user specific files
 .vs/
@@ -79,3 +88,7 @@ DerivedDataCache/*
 
 Content/StarterContent/*
 Content/TextureCache/*
+TheFabricCollection.png
+Content/~$er Manual_UE4_1.0.docx
+Content/~WRL0005.tmp
+Content/Overview.umap
